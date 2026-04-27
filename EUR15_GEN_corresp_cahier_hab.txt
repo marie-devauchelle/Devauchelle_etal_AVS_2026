@@ -1,0 +1,20 @@
+EUR15_GEN	Nom_fr	Names_en
+9110	Hˆtraies du Luzulo-Fagetum	Luzulo-Fagetum beech forests
+9120	Hˆtraies atlantiques acidophiles	Atlantic acidophilous beech forests
+9130	Hˆtraies de l'Asperulo-Fagetum	Asperulo-Fagetum beech forests
+9140	Hˆtraies subalpines m‚dio-europ‚ennes	Medio-European subalpine beech woods
+9150	Hˆtraies calcicoles m‚dio-europ‚ennes	Medio-European limestone beech forests
+9160	Chˆnaies p‚doncul‚es ou chˆnaies-charmaies	Sub-Atlantic and medio-European oak forests
+9170	Chˆnaies-charmais du Galio-Carpinetum	Galio-Carpinetum oak-hornbeam forests
+9180*	Forˆt de pentes, ‚boulis, ravins	Forests of slopes, screes and ravines
+9190	Vieilles chˆnaies acidiphiles des plaines sablonneuses … Quercus robur	Old acidophilous oak woods
+91D0*	TourbiŠres bois‚es	Bog woodland
+91E0*	Forˆts alluviales … Alnus glutinos et Fraxinus excelsior	Alluvial forests with Alnus glutinosa and Fraxinus excelsior
+91F0	Forˆts mixtes riveraines des grands fleuves	Riparian mixed forests along the great rivers
+9230	Chˆnaies galicio-portugaises	Galicio-Portuguese oak woods
+92A0	Forˆts-galeries m‚dit‚rran‚ennes … Salix alba et Populus alba	Salix alba and Populus alba galleries
+9410	Forˆts acidophiles … Picea des ‚tages montagnard … alpin	Acidophilous Picea forests of the montane to alpine levels
+9420	Forˆts alpines … Larix decidua et/ou Pinus cembrae	Alpine Larix decidua and/or Pinus cembra forests
+9430*	Forˆts montagnardes et subalpines … Pinus uncinata	Subalpine and montane Pinus uncinata forests
+9540	PinŠde m‚diterran‚enne de pin m‚sog‚ens end‚miques	Mediterranean pine forests with endemic Mesogean pines
+9560*	Forˆts end‚miques … Juniperus thurifera	Endemic forests with Juniperus spp.
