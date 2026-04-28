@@ -1,4 +1,5 @@
 # Relationship of HCI types with historical land use (AF or RF) / Figure 1 #
+
 rm(list = ls())
 #step 0 : package loading ####
 library(ggplot2)
@@ -7,7 +8,7 @@ library(stringr)
 library(sf)
 
 
-# downloading NFI forest regions
+# downloading NFI forest regions ("régions forestières")
 #Available at: https://inventaire-forestier.ign.fr/spip.php?rubrique267
 setwd("~/These/data/volet1/spatial")
 map_reg <- st_read("rnifn250.shp")

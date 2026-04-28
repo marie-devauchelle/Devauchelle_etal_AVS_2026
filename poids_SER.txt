@@ -1,0 +1,87 @@
+NomSER	SER	surf_ha	nbPlacSER	poids_ha_par_placette
+Ouest-Bretagne et Nord-Cotentin	A11	241385	1906	126.6
+Pays de Saint-Malo	A12	82341	633	130.1
+Bocage normand et Pays de Fougères	A13	146340	1191	122.9
+Bretagne méridionale	A21	110394	780	141.5
+Bocage armoricain	A22	102872	800	128.6
+Bocage vendéen	A30	84627	683	123.9
+Côtes et plateaux de la Manche	B10	231053	1820	127
+Flandres	B21	29293	247	118.6
+Plaine picarde	B22	43257	316	136.9
+Mosan, Thiérache et Hainaut	B23	50035	409	122.3
+Campagne de Caen et Pays d'Auge	B31	59468	470	126.5
+Plateaux de l'Eure	B32	151914	1220	124.5
+Perche	B33	134360	1138	118.1
+Bassin parisien tertiaire	B41	371616	2936	126.6
+Brie et Tardenois	B42	197897	1610	122.9
+Champagne crayeuse	B43	81207	591	137.4
+Beauce	B44	42864	320	133.9
+Champagne humide	B51	168850	1431	118
+Pays d'Othe et Gatinais oriental	B52	148850	1188	125.3
+Pays-Fort, Nivernais et plaines prémorvandelles	B53	157051	1238	126.9
+Baugeois-Maine	B61	166055	1408	117.9
+Champeigne-Gâtine tourangelle	B62	191110	1519	125.8
+Sologne-Orléanais	B70	377728	3115	121.3
+Loudunais et Saumurois	B81	66109	556	118.9
+Brenne et Brandes	B82	137425	1166	117.9
+Boischaut et Champagne berrichonne	B91	168825	1370	123.2
+Bourbonnais et Charolais	B92	136450	1053	129.6
+Ardenne primaire	C11	80625	641	125.8
+Argonne	C12	52065	448	116.2
+Plateaux calcaires du Nord-Est	C20	1164835	9455	123.2
+Plaines et dépressions argileuses du Nord-Est	C30	382483	2995	127.7
+Plaine d'Alsace	C41	88232	675	130.7
+Sundgau alsacien et belfortain	C42	48638	372	130.7
+Saône, Bresse et Dombes	C51	279187	2334	119.6
+Plaines et piémonts alpins	C52	242319	1721	140.8
+Massif vosgien central	D11	422739	3350	126.2
+Collines périvosgiennes et Warndt	D12	187532	1515	123.8
+Premier plateau du Jura	E10	287931	2279	126.3
+Deuxième plateau et Haut-Jura	E20	251673	1980	127.1
+Terres rouges	F11	50574	398	127.1
+Groies	F12	69945	608	115
+Marais littoraux	F13	5322	40	133.1
+Champagne charentaise	F14	60796	455	133.6
+Périgord	F15	324309	2200	147.4
+Landes de Gascogne	F21	906322	3700	245
+Dunes atlantiques	F22	106358	832	127.8
+Bazadais, Double et Landais	F23	184776	1482	124.7
+Coteaux de la Garonne	F30	453207	3156	143.6
+Causses du Sud-Ouest	F40	320740	1724	186
+Adour atlantique	F51	94812	693	136.8
+Collines de l'Adour	F52	122462	891	137.4
+Châtaigneraie du Centre et de l'Ouest	G11	257342	1958	131.4
+Marches du Massif central	G12	105486	764	138.1
+Plateaux limousins	G13	378009	2860	132.2
+Plateaux granitiques ouest du Massif central	G21	144023	1111	129.6
+Plateaux granitiques du centre du Massif central	G22	506886	3878	130.7
+Morvan et Autunois	G23	158542	1226	129.3
+Massif central volcanique	G30	183804	1379	133.3
+Bordure Nord-Est du Massif central	G41	100009	829	120.6
+Monts du Vivarais et du Pilat	G42	170481	1209	141
+Ségala et Châtaigneraie auvergnate	G50	275384	1803	152.7
+Grands Causses	G60	201692	875	230.5
+Cévennes	G70	278649	1234	225.8
+Haut-Languedoc et Lévézou	G80	257444	1245	206.8
+Plaines alluviales et piémonts du Massif central	G90	120715	879	137.3
+Préalpes du Nord	H10	296298	1688	175.5
+Alpes externes du Nord	H21	113366	648	174.9
+Alpes internes du Nord	H22	111274	559	199.1
+Alpes externes du Sud	H30	653586	3263	200.3
+Alpes intermédiaires du Sud	H41	227670	1038	219.3
+Alpes internes du Sud	H42	168139	772	217.8
+Piémont pyrénéen	I11	130956	859	152.5
+Pyrénées cathares	I12	122696	651	188.5
+Corbières	I13	55823	262	213.1
+Haute-chaîne pyrénéenne	I21	383020	2127	180.1
+Pyrénées catalanes	I22	132919	678	196
+Garrigues	J10	315323	1329	237.3
+Roussillon	J21	56287	301	187
+Plaines et collines rhodaniennes et languedociennes	J22	296299	1499	197.7
+Provence calcaire	J23	491114	2295	214
+Secteurs niçois et préligure	J24	41939	165	254.2
+Maures et Esterel	J30	134784	526	256.2
+Préalpes du Sud	J40	202118	1029	196.4
+Corse occidentale	K11	246457	561	439.3
+Montagne corse	K12	167477	701	238.9
+Corse orientale	K13	206029	562	366.6
