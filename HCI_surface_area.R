@@ -6,7 +6,8 @@ library(ggplot2)
 library(data.table)
 library(stringr)
 library(sf)
-library(ggspatial)
+library(ggspatial)#north arrow and scale on maps
+
 
 # downloading NFI forest regions ("régions forestières")
 #Available at: https://inventaire-forestier.ign.fr/spip.php?rubrique267
