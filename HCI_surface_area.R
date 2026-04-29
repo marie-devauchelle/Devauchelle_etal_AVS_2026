@@ -44,7 +44,7 @@ nrow(raw_NFI_info_plots) #205 312
 #dataset from cross-referencing between NFI plots location and historical map
 #and the French forest map BD FORET V2.
 #this dataset was given by the IGN.
-#NFI plots location are available at: https://inventaire-forestier.ign.fr/dataifn/
+#NFI plots blurred location (at 700 m) are available at: https://inventaire-forestier.ign.fr/dataifn/
 #The Historical "General Staff map" is abvailable at: https://www.data.gouv.fr/datasets/bd-carto-r-etat-major
 # The French forest map is available at: https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-FORET
 #We considered as Ancient Forest (coded 1), plots where the historic map was
