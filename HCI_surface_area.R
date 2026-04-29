@@ -138,9 +138,9 @@ table(NFI_hab_histo$FORET_EM, useNA = "always")#AF 45 639, RF 45 107
 
 #Regional scale
 
-#loading an area weight for each plot depending on its biogeographical region (GRECO)
+#loading an area weight for each plot depending on its ecological forest region (SER)
 #The area weight was obtained by dividing the total forest area (from BD foret V2) of each 
-#of the nine biogeographical regions by the number of NFI plots they contain. 
+#of the SER by the number of NFI plots they contain. 
 setwd("~/These/data/volet1")
 w_surf_ser <- fread("poids_SER.txt")
 
